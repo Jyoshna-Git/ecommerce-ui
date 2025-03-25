@@ -1,2 +1,2 @@
 # ecommerce-ui
-Ecommerce-ui
+Ecommerce-ui - description
